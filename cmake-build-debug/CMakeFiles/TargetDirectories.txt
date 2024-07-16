@@ -1,0 +1,3 @@
+Q:/USER/Máy tính/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir
+Q:/USER/Máy tính/Algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
+Q:/USER/Máy tính/Algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
